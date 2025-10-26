@@ -27,3 +27,5 @@ Before running the script, you must configure the coordinates to match your game
         * `card_Step`: The horizontal pixel distance between the center of the first seed packet and the center of the second seed packet.
 
 3.  **Run:** Once configured, simply run the script. The hotkeys will only be active when the `Replanted.exe` window is active.
+
+4.  **Change Keys:** And of course, you can change the keys for your liking, you can do that by just changing it directly in the script!

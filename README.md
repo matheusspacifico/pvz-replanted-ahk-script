@@ -5,7 +5,7 @@ An AutoHotkey (v2) script for Plants vs. Zombies: Replanted. It provides keyboar
 ## Features
 
 * **Seed Packets:** Press `1`, `2`, `3`, `4`, `Q`, `W`, `E`, `R`, `A`, `S` to select the corresponding seed packet.
-* **Speed Up:** Press `R` to press the in-game speed-up button.
+* **Speed Up:** Press `Z` to press the in-game speed-up button.
 * **Mouse Return:** The script clicks the UI element and instantly returns your mouse to its original position.
 * **Resolution Scaling:** Automatically calculates click positions, allowing the script to work even if the game window is resized or running at a different resolution than its native one.
 

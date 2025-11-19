@@ -1,3 +1,7 @@
+# DEPRECATED!!
+
+The PvZ Replanted Devs added native hotkey support on Patch 1.4 (November 18th 2025). So while this script works, there is no reason to use it anymore.
+
 # PvZ Replanted AHK Script
 
 An AutoHotkey (v2) script for Plants vs. Zombies: Replanted. It provides keyboard hotkeys for selecting seed packets and pressing the speed-up button.
